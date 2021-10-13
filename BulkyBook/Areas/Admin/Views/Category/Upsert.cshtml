@@ -5,11 +5,13 @@
     var title = "Create Category";
 }
 
+
 <form method="post">
     <div class="row p-3 border">
         <div asp-validation-summary="ModelOnly" class="text-danger"></div>
         @if (Model.Id != 0)
         {
+            //edit
             title = "Edit Category";
         }
         <div class="col-12 border-bottom">
@@ -25,7 +27,6 @@
                     <span asp-validation-for="Name" class="text-danger"></span>
                 </div>
             </div>
-            <br/>
             <div class="form-group row">
                 <div class="col-8 offset-4">
                     @if (Model.Id != 0)
@@ -34,8 +35,7 @@
                     }
                     else
                     {
-                        <partial name="_CreateAndBackToListButton" model="Model.Id" />
-
+                        <partial name="_CreateAndBackToListButton" />
                     }
                 </div>
             </div>
@@ -45,4 +45,4 @@
 
 @section Scripts{ 
 <partial name="_ValidationScriptsPartial" />
-} 
+}

@@ -1,10 +1,10 @@
-﻿using BulkyBook.DataAccess.Repository.IRepository;
-using BulkyBook.Models;
-using Microsoft.AspNetCore.Mvc;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using BulkyBook.DataAccess.Repository.IRepository;
+using BulkyBook.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace BulkyBook.Areas.Admin.Controllers
 {
@@ -12,10 +12,12 @@ namespace BulkyBook.Areas.Admin.Controllers
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
+
         public CategoryController(IUnitOfWork unitOfWork)
         {
             _unitOfWork = unitOfWork;
         }
+
         public IActionResult Index()
         {
             return View();
@@ -26,23 +28,17 @@ namespace BulkyBook.Areas.Admin.Controllers
             Category category = new Category();
             if (id == null)
             {
-                //for create view
+                //this is for create
                 return View(category);
             }
-            else
+            //this is for edit
+            category = _unitOfWork.Category.Get(id.GetValueOrDefault());
+            if (category == null)
             {
-                //for edit view
-                category = _unitOfWork.Category.Get(id.GetValueOrDefault());
-                if (category == null)
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    return View(category);
-                }
+                return NotFound();
             }
-           
+            return View(category);
+
         }
 
         [HttpPost]
@@ -54,7 +50,7 @@ namespace BulkyBook.Areas.Admin.Controllers
                 if (category.Id == 0)
                 {
                     _unitOfWork.Category.Add(category);
-                   
+                    
                 }
                 else
                 {
@@ -66,13 +62,30 @@ namespace BulkyBook.Areas.Admin.Controllers
             return View(category);
         }
 
-        #region API Calls
+
+        #region API CALLS
+
         [HttpGet]
         public IActionResult GetAll()
         {
             var allObj = _unitOfWork.Category.GetAll();
             return Json(new { data = allObj });
         }
+
+        [HttpDelete]
+        public IActionResult Delete(int id)
+        {
+            var objFromDb = _unitOfWork.Category.Get(id);
+            if (objFromDb == null)
+            {
+                return Json(new { success = false, message = "Error while deleting" });
+            }
+            _unitOfWork.Category.Remove(objFromDb);
+            _unitOfWork.Save();
+            return Json(new { success = true, message = "Delete Successful" });
+
+        }
+
         #endregion
     }
 }

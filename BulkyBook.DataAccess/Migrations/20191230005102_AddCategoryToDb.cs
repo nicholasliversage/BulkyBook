@@ -2,7 +2,7 @@
 
 namespace BulkyBook.DataAccess.Migrations
 {
-    public partial class AddCategoryMigration : Migration
+    public partial class AddCategoryToDb : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
