@@ -1,0 +1,43 @@
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.deps.json
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csprojAssemblyReference.cache
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfo.cs
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Models.dll
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Models.pdb
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csproj.CopyComplete
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.deps.json
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Models.dll
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Models.pdb
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csprojAssemblyReference.cache
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfo.cs
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csproj.CopyComplete
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.deps.json
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Models.dll
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Models.pdb
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csprojAssemblyReference.cache
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfo.cs
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csproj.CopyComplete
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb

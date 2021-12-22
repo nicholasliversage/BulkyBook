@@ -1,0 +1,28 @@
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.Utility\bin\Debug\netcoreapp3.1\BulkyBook.Utility.deps.json
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.Utility\bin\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.Utility\bin\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.csprojAssemblyReference.cache
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.AssemblyInfo.cs
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.Utility\bin\Debug\netcoreapp3.1\BulkyBook.Utility.deps.json
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.Utility\bin\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.Utility\bin\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.csprojAssemblyReference.cache
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.AssemblyInfo.cs
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+C:\Users\Liversage36\Downloads\Compressed\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.Utility\bin\Debug\netcoreapp3.1\BulkyBook.Utility.deps.json
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.Utility\bin\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.Utility\bin\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.csprojAssemblyReference.cache
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.AssemblyInfoInputs.cache
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.AssemblyInfo.cs
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+F:\Programs\C#\BulkyBook3\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
